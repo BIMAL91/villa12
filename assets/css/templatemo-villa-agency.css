@@ -171,7 +171,7 @@ body {
 }
 
 .icon-button a i {
-  background-color: #f35525;
+  background-color: #ffba10;
   height: 50px;
   width: 50px;
   text-align: center;
@@ -183,7 +183,7 @@ body {
 }
 
 .icon-button a:hover {
-  color: #f35525;
+  color: #ffba10;
 }
 
 .icon-button a:hover i {
@@ -474,7 +474,7 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child a i {
-  background-color: #20a749;
+  background-color: #ffba10;
   display: inline-block;
   width: 40px;
   height: 40px;
@@ -1083,7 +1083,7 @@ Best Deal Style
 }
 
 .best-deal .tabs-content .nav-tabs .nav-link.active {
-  background-color: #f35525 !important;
+  background-color: #ffba10 !important;
   color: #fff;
 }
 
@@ -1158,7 +1158,7 @@ Properties Style
 */
 
 .properties .item {
-  background-color: #ffba10;
+  background-color: #fafafa;
   border-radius: 10px;
   padding: 30px;
   margin-bottom: 30px;
@@ -1184,8 +1184,8 @@ Properties Style
   margin: 25px 0px;
 }
 
-.properties .item h4 {
-  color: #ffffff;
+.properties .item h4 a {
+  color: #1e1e1e;
 }
 
 .properties .item ul li {
@@ -1333,7 +1333,7 @@ Contact Style
 }
 
 .contact-content #contact-form button:hover {
-  background-color: #f35525;
+  background-color: #ffba10;
 }
 
 
@@ -1451,7 +1451,7 @@ Properties Style
 }
 
 .properties ul.properties-filter li a:hover {
-  color: #ffba10;;
+  color: #ffba10;
 }
 
 .properties ul.pagination {
@@ -1499,21 +1499,21 @@ Single Page Style
 
 .single-property .main-content h4 {
   font-size: 25px;
-  margin-top: 25px;
+  margin-top: 5px;
   margin-bottom: 40px;
   padding-bottom: 40px;
   border-bottom: 1px solid #eee;
 }
 
 .single-property .main-content span.category {
-  background-color: #fbd9cf;
+  /* background-color: #fbd9cf; */
   font-weight: 500;
   border-radius: 5px;
   font-size: 14px;
   color: #1e1e1e;
   padding: 5px 12px;
   display: inline-block;
-  margin-top: 40px;
+  margin-top: 0px;
 }
 
 .single-property .accordion {
@@ -1693,7 +1693,7 @@ Contact Page Style
 }
 
 .contact-page #contact-form button:hover {
-  background-color: #f35525;
+  background-color: #ffba10;
 }
 
 
