@@ -1158,7 +1158,7 @@ Properties Style
 */
 
 .properties .item {
-  background-color: #fafafa;
+  background-color: #ffba10;
   border-radius: 10px;
   padding: 30px;
   margin-bottom: 30px;
@@ -1184,8 +1184,8 @@ Properties Style
   margin: 25px 0px;
 }
 
-.properties .item h4 a {
-  color: #1e1e1e;
+.properties .item h4 {
+  color: #ffffff;
 }
 
 .properties .item ul li {
@@ -1442,7 +1442,7 @@ Properties Style
 }
 
 .properties ul.properties-filter li a.is_active {
-  background-color: #f35525;
+  background-color: #ffba10;
   color: #fff;
 }
 
@@ -1451,7 +1451,7 @@ Properties Style
 }
 
 .properties ul.properties-filter li a:hover {
-  color: #f35525;
+  color: #ffba10;;
 }
 
 .properties ul.pagination {
