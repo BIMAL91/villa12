@@ -1272,7 +1272,7 @@ Contact Style
 }
 
 .contact-content .item h6 {
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 600;
   vertical-align: middle;
 }
@@ -1539,7 +1539,7 @@ Single Page Style
 }
 
 .single-property .accordion-button:not(.collapsed) {
-  color: #f35525;
+  color: #ffba10;
   background-color: #fafafa;
   outline: none;
 }
@@ -1632,7 +1632,7 @@ Contact Page Style
 }
 
 .contact-page .item h6 {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 600;
   vertical-align: middle;
 }
