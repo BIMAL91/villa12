@@ -138,7 +138,7 @@ body {
 }
 
 .section-heading h2 {
-  font-size: 34px;
+  font-size: 33px;
   font-weight: 700;
   text-transform: capitalize;
   margin-top: 20px;
@@ -959,7 +959,7 @@ Video Style
 */
 
 .video {
-  background-image: url(../images/video-bg.jpg);
+  background-image: url(../images/videobg3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1078,7 +1078,7 @@ Best Deal Style
   height: 50px;
   line-height: 50px;
   display: inline-block;
-  padding: 0px 25px;
+  padding: 0px 65px;
   color: #fff;
 }
 
@@ -1227,7 +1227,7 @@ Contact Style
 */
 
 .contact {
-  background-image: url(../images/contact-bg.jpg);
+  background-image: url(../images/contactbg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1380,12 +1380,13 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(../images/page-heading-bg.jpg);
+  background-image: url(../images/background.jpg);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 110px 0px;
   text-align: center;
+  opacity: 55;
 }
 
 .page-heading span {
